@@ -1,0 +1,16 @@
+@CHARSET "ISO-8859-1";
+div.sansserif{
+	background-color: 	#B0C4DE;
+font-family:sans-serif
+}
+h1.sansserif{
+	
+
+font-family:sans-serif;
+
+background-color:#6495ED
+}
+p.sansserif{
+	font-family:sans-serif;
+	margin-top: 0
+}

@@ -1,0 +1,5 @@
+@CHARSET "ISO-8859-1";
+p{
+	border: 1px solid orange;
+	outline: 5px dotted green;
+}

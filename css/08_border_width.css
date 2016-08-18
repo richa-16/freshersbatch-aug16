@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+p.one{
+	border: solid;
+	border-width: thick;
+}
+p.two{
+	border: solid;
+	border-width: medium;
+}
+p.three{
+	border: solid;
+	border-width: thin;
+}

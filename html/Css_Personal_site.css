@@ -1,0 +1,44 @@
+
+h1{
+	color: #2E4053  ;
+	margin-left: 160px;
+}
+#third{
+	color:#797D7F ;
+	margin-left: 160px;
+}
+.hock_img{
+	background-image: url("hockey.jpg");
+	padding-left:10%;
+	height: 150px;
+	
+	margin-left:70px;
+	margin-right:70px;
+	z-index:1;
+	border: 3;
+	
+}
+#ricimg{
+	float:left;
+	height: 150px;
+	margin-left:70px;
+}
+#home{
+	padding-left: 800px;
+}
+.contain
+{
+	margin-left:70px;
+
+	height: 1000px;
+	width: 50%;
+	background-color:  #707B7C;
+}
+#quotes
+{
+	z-index: 2;
+}
+.two{
+	z-index: 1;
+	
+}
